@@ -1,2 +1,2 @@
-# fcc_algorithms-data_structures
-Set of exercises to practice javascript (algorithms and data structures) from FCC's source. 
+# Algorithms and data structures in JavaScript
+Set of exercises to practice JS (algorithms and data structures) from FCC's source. 
